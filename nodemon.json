@@ -1,0 +1,13 @@
+{
+  "watch": [
+    "index.js",
+    "greetings-controller.js",
+    "src/",
+    "routes/",
+    "plugins/",
+    "schemas/"
+  ],
+  "ext": "js,json",
+  "ignore": ["node_modules"],
+  "exec": "node src/index.js"
+}
